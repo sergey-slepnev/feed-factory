@@ -1,4 +1,4 @@
-package ssp.springframework.petfeed;
+package ssp.micro.petfeed;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
