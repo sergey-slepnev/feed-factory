@@ -1,4 +1,4 @@
-package ssp.micro.petfeed;
+package ssp.micro.feedfactory;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

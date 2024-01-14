@@ -1,4 +1,4 @@
-package ssp.micro.petfeed.web.model.dto;
+package ssp.micro.feedfactory.web.model.dto;
 
 import lombok.Builder;
 

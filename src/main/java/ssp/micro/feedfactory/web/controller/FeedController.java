@@ -1,4 +1,4 @@
-package ssp.micro.petfeed.web.controller;
+package ssp.micro.feedfactory.web.controller;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
-import ssp.micro.petfeed.service.FeedService;
-import ssp.micro.petfeed.web.model.dto.FeedDto;
+import ssp.micro.feedfactory.service.FeedService;
+import ssp.micro.feedfactory.web.model.dto.FeedDto;
 
 import java.util.UUID;
 

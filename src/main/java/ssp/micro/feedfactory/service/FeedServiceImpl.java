@@ -1,7 +1,7 @@
-package ssp.micro.petfeed.service;
+package ssp.micro.feedfactory.service;
 
 import org.springframework.stereotype.Service;
-import ssp.micro.petfeed.web.model.dto.FeedDto;
+import ssp.micro.feedfactory.web.model.dto.FeedDto;
 
 import java.util.UUID;
 
